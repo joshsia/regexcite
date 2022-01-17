@@ -4,7 +4,8 @@ Version: 0.0.0.9000
 Authors@R: 
     person(given = "Joshua",
            family = "Sia",
-           role = c("aut", "cre"))
+           role = c("aut", "cre"),
+           email = "joshuasia2000@gmail.com")
 Description: Convenience functions to make some common tasks with string 
     manipulation and regular expressions a bit easier.
 License: MIT + file LICENSE
